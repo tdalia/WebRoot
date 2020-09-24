@@ -7,3 +7,7 @@ h1 {
     text-align: center;
     color: brown;
 }
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
