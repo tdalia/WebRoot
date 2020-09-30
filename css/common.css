@@ -1,0 +1,19 @@
+body {
+    margin: 2%;
+    background-color: darkkhaki;
+    font-family: sans-serif;
+}
+
+.title {
+    color: purple;
+}
+
+[class*="row"] {
+    margin-top: 15px;
+    padding-left: 15px;
+}
+
+.resourceTitleLink {
+    font-weight: bold;
+    color: forestgreen;
+}

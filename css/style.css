@@ -1,8 +1,4 @@
-body {
-    margin: 2%;
-    background-color: cadetblue;
-    font-family: sans-serif;
-}
+
 
 h1 {
     text-align: center;
@@ -19,10 +15,6 @@ p {
     text-align: center;
 }
 
-.title {
-    color: purple;
-}
-
 .photo {
     width: 50px; 
     height: 50px;
@@ -30,10 +22,6 @@ p {
 
 .photoDiv {
     text-align: center;
-}
-
-.servicesImg {
-    width: 100%; margin-bottom: 15px;
 }
 
 .mailBtnP {
@@ -44,7 +32,4 @@ p {
     margin-top: 30px; font-size: x-large;
 }
 
-.contentDiv {
-    margin-top: 15px; margin-left: 35px;
-}
 
